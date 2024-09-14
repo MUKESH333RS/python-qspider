@@ -1,0 +1,28 @@
+Identifiers
+    * This are the name event given to the
+        - Variables
+        - Functions
+        - Classes
+    which is used to identify the functionality often.
+
+Rules of Identifiers:
+    1) It should not be a keywords.
+    2) It should not start with numbers.
+    3) It should not contain any special characters except '_' (underscore).
+    4) It can be
+        - Alphabets(uppercase/lowercase)
+        - Alphanumeric
+        - '_'(underscore)
+
+Examples of Identifiers:
+    - my_name
+    - bond007
+    - her_age
+    - phone_numbers
+    - list_of__items
+    - school_names
+    - movie1
+
+Note:
+    Industrial Standard Rule
+        - According to this convention, the length of the variable name should not exceed 32 characters.

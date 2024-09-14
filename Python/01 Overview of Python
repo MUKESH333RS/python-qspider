@@ -1,0 +1,28 @@
+Python:
+    * Python is a
+        - general purpose,
+        - high level,
+        - interpreted,
+        - object oriented,
+        - scripting,
+        - dynamically typed,
+        - platform independent language.
+    Software:
+        * A Software is a collection of programs which is used to perform multiple tasks.
+
+    Program:
+        * A Program is a set of instruction used to perform a specific task.
+
+    Features of Python:
+        i)   Easy to learn
+        ii)  high level language
+        iii) Dynamic typed language
+        iv)  Interpreted language
+            - line by line compile and execute the program and if it have error then rest of the line show error.
+        v)   Scripting language
+        vi)  Open Source language
+        vii) OOPs
+            - Using a blueprint creating an object.
+        viii)Vast library
+            - which means ready-made Eg. #include<stdio.h>
+            - 7+ Cr of library function.

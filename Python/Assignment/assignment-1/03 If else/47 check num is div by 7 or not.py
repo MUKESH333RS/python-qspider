@@ -1,0 +1,7 @@
+# 47.	Write a program to check whether a number is divisible by 7 or not.
+
+num = int(input("Enter a number:"))
+if num % 7 == 0:
+    print(f"The number {num} is divisible by 7.")
+else:
+    print(f"The number {num} is not divisible by 7.")

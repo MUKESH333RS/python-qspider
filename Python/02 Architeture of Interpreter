@@ -1,0 +1,31 @@
+Architecture of Interpreter:
+
+    Source Code:
+        - It is a code which is written by the user.
+        - Generally It is a high level language.
+        - Sice computer do not understand high level language.
+        - The source code should be converted into low level language.
+        - To make this possible we need a translator.
+
+    Translator:
+        - It is a device used to convert high level language to low level language.
+        - Generally we have a two types of translator.
+            i)  Compiler
+            ii) Interpreter
+
+    Compiler:
+        - It is a translator which checks the whole programs for any error when there are no error the program will
+          execute.If it even a single error then execution is not possible, here the code is checked for any error and
+          it is converted to .pyc file [compile python file].
+
+    Lexer: [Breaks the code]
+        - It is a component in translator which splits the code into tokens.
+
+    Parser: [Build the connections]
+        - It is used for parsing which means it forms a relation between the instructions.
+          Here there is a formation AST[Abstract Syntax Tree]
+
+    PVM or Interpreter:
+        - It stands for Python Virtual machine. Here .pyc file is converted to a run time code.
+          This code is parsed to the ALU which performs the necessary operations.
+        - After the operations the response is send back to the user.
