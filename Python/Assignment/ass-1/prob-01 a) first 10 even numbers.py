@@ -1,6 +1,6 @@
 # Write a program to print following using while loop
 # First 10 Even numbers
-
+age = 10
 num = 10
 i = 1
 while (num > 0):
